@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="one_px">1px</dimen>
+
+    <dimen name="splash_bottom_padding">10dp</dimen>
+    <dimen name="splash_middle_top_margin">10dp</dimen>
+    <dimen name="splash_bottom_margin">40dp</dimen>
+    <dimen name="splash_top_margin">130dp</dimen>
+
+    <dimen name="fragment_common_list_smart_tab_padding">20dp</dimen>
+    <dimen name="fragment_common_list_smart_tab_indicator_height">3dp</dimen>
+    <dimen name="fragment_common_list_smart_tab_indicator_radius">2dp</dimen>
+
+    <dimen name="list_item_news_list_padding_top_bottom">8dp</dimen>
+    <dimen name="list_item_news_list_padding_left_right">12dp</dimen>
+    <dimen name="list_item_news_list_margin">5dp</dimen>
+
+    <dimen name="qrcode_crop_width">200dp</dimen>
+    <dimen name="qrcode_crop_height">200dp</dimen>
+
+    <dimen name="barcode_crop_width">260dp</dimen>
+    <dimen name="barcode_crop_height">140dp</dimen>
+
+    <dimen name="home_menu_width">220dp</dimen>
+    <dimen name="home_menu_top_image_height">120dp</dimen>
+
+    <dimen name="list_item_news_list_image_width">80dp</dimen>
+    <dimen name="list_item_news_list_image_height">60dp</dimen>
+    <dimen name="list_item_news_list_slide_image_height">85dp</dimen>
+
+    <dimen name="list_item_videos_list_image_height">245dp</dimen>
+
+    <dimen name="player_disc_size">260dp</dimen>
+    <dimen name="player_disc_container_marign">30dp</dimen>
+</resources>

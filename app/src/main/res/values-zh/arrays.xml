@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="navigation_list">
+        <item>图片浏览</item>
+        <item>视频爽看</item>
+        <item>音乐轻听</item>
+    </array>
+
+    <array name="images_category_list_id">
+        <item>美女</item>
+        <item>动漫</item>
+        <item>明星</item>
+        <item>汽车</item>
+        <item>摄影</item>
+        <item>美食</item>
+    </array>
+
+    <array name="images_category_list_name">
+        <item>美女</item>
+        <item>动漫</item>
+        <item>明星</item>
+        <item>汽车</item>
+        <item>摄影</item>
+        <item>美食</item>
+    </array>
+
+
+</resources>

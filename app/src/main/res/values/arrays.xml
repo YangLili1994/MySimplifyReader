@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="navigation_list">
+        <item>Photo</item>
+        <item>Video</item>
+        <item>Music</item>
+    </array>
+
+
+    <array name="images_category_list_id">
+        <item>Beauty</item>
+        <item>Cartoon</item>
+        <item>Star</item>
+        <item>Car</item>
+        <item>Photography</item>
+        <item>Food</item>
+    </array>
+
+    <array name="images_category_list_name">
+        <item>Beauty</item>
+        <item>Cartoon</item>
+        <item>Star</item>
+        <item>Car</item>
+        <item>Photography</item>
+        <item>Food</item>
+    </array>
+
+
+
+</resources>
